@@ -24,7 +24,7 @@ healers, they are required to save themselves and vote out the Mafias.
 the player is mafia or not. If they correctly identify a mafia, the caught mafia will be voted
 out in that round by default.They start with an HP of 800 each.
 3. Healer: They randomly select a player from the game to give him a boost of 500 HP (All
-players, including mafias and healers themselves).They start with an HP of 800 each.
+players, including mafias and healers themselves). They start with an HP of 800 each.
 4. Commoner: They don’t have any special role. They only take part in the voting process. 
 They start with an HP of 1000 each.
 ### End of Game:
