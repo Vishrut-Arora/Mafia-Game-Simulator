@@ -19,13 +19,14 @@ The objective for all other players(except the mafias) is to eliminate the mafia
 out(as the Mafias cannot be killed). Therefore, by using special powers of detectives and
 healers, they are required to save themselves and vote out the Mafias.
 ### Role of different type of players:
-1. Mafia: To kill all other players to achieve a 1:1 ratio.
+1. Mafia: To kill all other players to achieve a 1:1 ratio. They start with an HP of 2500 each.
 2. Detective: They can randomly test one of the players (except detective) to test whether
 the player is mafia or not. If they correctly identify a mafia, the caught mafia will be voted
-out in that round by default.
+out in that round by default.They start with an HP of 800 each.
 3. Healer: They randomly select a player from the game to give him a boost of 500 HP (All
-players, including mafias and healers themselves).
-4. Commoner: They don’t have any special role. They only take part in the voting process.
+players, including mafias and healers themselves).They start with an HP of 800 each.
+4. Commoner: They don’t have any special role. They only take part in the voting process. 
+They start with an HP of 1000 each.
 ### End of Game:
 The game ends when either all mafias are voted out or the ratio of mafias to others becomes
 1:1.
